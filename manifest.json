@@ -1,0 +1,39 @@
+{
+  "name": "ANIMESUBID",
+  "short_name": "Animesubindo",
+  "scope": "https://animesubid.xyz/",
+  "start_url": "https://www.animesubid.xyz",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "AnimesubiD adalah tempat Nonton Streaming anime subtitle Indonesia kualitas HD gratis bebas iklan,batch, streaming,futoku no guild uncencored,Peter grill season 2 no sensor,tensei shittara ken deshita,Bleach sennen kessen hen,noumin kanren no skill,chainsaw man episode 6 sub indo,renai flops,otakudesu,Animeindo,samehadaku,shokuja,gatsunime,hentai sub indo,nekopoi.care,bilibili,bstation,nanime,gomunime,jalantikus,pikiran rakyat.",
+  "icons": [{
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXTLyzloe5AkLeYuGa_6f13XtxgEmFgSlxUHkwnJOmb9gb8xyzI48kt0tVW6CDSBs_0WFrqjAX_McOY-mDSPG3BvtI-Iprsz0E3YDFYRmJNgI9XA8sgbHqiBED8_2e9NyvGTqfv_eeZwYiMfQ5fyF0qXxotWIxIYtrv7bHmqdW5_kJAxq8ZVhJ6whu/s48/20221204_093331.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXTLyzloe5AkLeYuGa_6f13XtxgEmFgSlxUHkwnJOmb9gb8xyzI48kt0tVW6CDSBs_0WFrqjAX_McOY-mDSPG3BvtI-Iprsz0E3YDFYRmJNgI9XA8sgbHqiBED8_2e9NyvGTqfv_eeZwYiMfQ5fyF0qXxotWIxIYtrv7bHmqdW5_kJAxq8ZVhJ6whu/s72/20221204_093331.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXTLyzloe5AkLeYuGa_6f13XtxgEmFgSlxUHkwnJOmb9gb8xyzI48kt0tVW6CDSBs_0WFrqjAX_McOY-mDSPG3BvtI-Iprsz0E3YDFYRmJNgI9XA8sgbHqiBED8_2e9NyvGTqfv_eeZwYiMfQ5fyF0qXxotWIxIYtrv7bHmqdW5_kJAxq8ZVhJ6whu/s96/20221204_093331.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXTLyzloe5AkLeYuGa_6f13XtxgEmFgSlxUHkwnJOmb9gb8xyzI48kt0tVW6CDSBs_0WFrqjAX_McOY-mDSPG3BvtI-Iprsz0E3YDFYRmJNgI9XA8sgbHqiBED8_2e9NyvGTqfv_eeZwYiMfQ5fyF0qXxotWIxIYtrv7bHmqdW5_kJAxq8ZVhJ6whu/s144/20221204_093331.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXTLyzloe5AkLeYuGa_6f13XtxgEmFgSlxUHkwnJOmb9gb8xyzI48kt0tVW6CDSBs_0WFrqjAX_McOY-mDSPG3BvtI-Iprsz0E3YDFYRmJNgI9XA8sgbHqiBED8_2e9NyvGTqfv_eeZwYiMfQ5fyF0qXxotWIxIYtrv7bHmqdW5_kJAxq8ZVhJ6whu/s168/20221204_093331.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXTLyzloe5AkLeYuGa_6f13XtxgEmFgSlxUHkwnJOmb9gb8xyzI48kt0tVW6CDSBs_0WFrqjAX_McOY-mDSPG3BvtI-Iprsz0E3YDFYRmJNgI9XA8sgbHqiBED8_2e9NyvGTqfv_eeZwYiMfQ5fyF0qXxotWIxIYtrv7bHmqdW5_kJAxq8ZVhJ6whu/s192/20221204_093331.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjXTLyzloe5AkLeYuGa_6f13XtxgEmFgSlxUHkwnJOmb9gb8xyzI48kt0tVW6CDSBs_0WFrqjAX_McOY-mDSPG3BvtI-Iprsz0E3YDFYRmJNgI9XA8sgbHqiBED8_2e9NyvGTqfv_eeZwYiMfQ5fyF0qXxotWIxIYtrv7bHmqdW5_kJAxq8ZVhJ6whu/s512/20221204_093331.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
